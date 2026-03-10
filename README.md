@@ -1,5 +1,4 @@
 # PROJ-Multiome-EPN-ZR
-Version 2025
 
 Author and Maintainer: Hua Sun
 
