@@ -1,6 +1,6 @@
 # PROJ-Multiome-EPN-ZR
 
-Author and maintainer of the single-cell study: Hua Sun
+Author and maintainer of the single-cell study code: Hua Sun
 
 
 Contact
