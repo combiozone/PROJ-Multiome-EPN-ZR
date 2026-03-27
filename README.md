@@ -12,4 +12,4 @@
 
 Contact
 ------------
-Hua Sun, hua.sun@stjude.org ; Stephen Mack (PI) stephen.mack@stjude.org
+Hua Sun, <hua.sun@stjude.org> ; Stephen Mack (PI), <stephen.mack@stjude.org>
