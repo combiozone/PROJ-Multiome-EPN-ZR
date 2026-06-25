@@ -1,9 +1,7 @@
 # PROJ-Multiome-EPN-ZR
 
 
-### Dominant clones leverage developmental epigenomic states to drive ependymoma ###
-
-#### [_Nature_ (2026)](https://www.nature.com/articles/s41586-026-10270-8) ####
+This repository contains analysis scripts for the integrated snMultiome analyses used in “Dominant clones leverage developmental epigenomic states to drive ependymoma”, [_Nature_ (2026)](https://www.nature.com/articles/s41586-026-10270-8).
 
 <br/>
 
@@ -16,11 +14,6 @@ The integrated snMultiome Seurat object used in this study is available through 
 
 https://doi.org/10.5281/zenodo.20818179
 
-<br/>
-
-### Code
-
-Analysis code developed and maintained by Hua Sun.
 
 <br/>
 
